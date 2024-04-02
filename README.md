@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning .webdev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..follow me on github@.
-- 😄 Pronouns: ..i love coding.
+- 😄 Pronouns: 
 - ⚡ Fun fact: ...
 
 <!---
